@@ -3,7 +3,7 @@
 
 ### O desafio.
 
-É fazer um perfil de compartilhamento de links socias.
+É fazer um perfil de compartilhamento de links sociais.
 
 ### Captura de tela.
 
